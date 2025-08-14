@@ -90,7 +90,6 @@
     ]
   },
   "dependencies": {
-    "@lobehub/ui": "^2.0.0",
     "antd-style": "^3.7.1",
     "class-variance-authority": "^0.7.1",
     "lodash.camelcase": "^4.3.0",
